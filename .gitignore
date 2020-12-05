@@ -1,0 +1,5 @@
+# Ignore this
+*.cia
+*.o
+*.elf
+*.a
